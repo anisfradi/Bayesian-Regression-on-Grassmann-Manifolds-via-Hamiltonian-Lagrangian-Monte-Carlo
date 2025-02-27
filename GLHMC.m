@@ -13,7 +13,7 @@
 % OUTPUTS:
 % chain = a list of sampling for position and velocity
 % acceptance = acceptance rate of GLHMC
-% P = the log-posterior applied to each sample
+% post = the log-posterior applied to each sample
 
 
 
