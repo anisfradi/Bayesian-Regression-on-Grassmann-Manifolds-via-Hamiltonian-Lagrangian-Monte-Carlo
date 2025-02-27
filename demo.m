@@ -47,4 +47,4 @@ LF=10; % number of iterations for leap-frog
 nBurnIn=50; % burn-in parameter
 epsilon=1e-4; % step size
 
-[chain, acceptance_rate, P] = GLHMC(nIters, nBurnIn, obs, value_init,epsilon,LF);
+[chain, acceptance_rate, posterior_values] = GLHMC(nIters, nBurnIn, obs, value_init,epsilon,LF);
