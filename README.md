@@ -1,6 +1,6 @@
 # Bayesian-Regression-on-Grassmann-Manifolds-via-Lagrangian-Hamiltonian-Monte-Carlo
 
-This MATLAB demo provides an implementation of the "Regression on the Grassmannian based on the Lagrangian Hamiltonian Monte Carlo sampling" method 
+This MATLAB code provides an implementation of the "Regression on the Grassmannian based on the Lagrangian Hamiltonian Monte Carlo sampling" method 
 
 ## Table of Contents
 
